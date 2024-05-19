@@ -1,0 +1,49 @@
+html {
+    margin: 0;
+  }
+.heading{
+    text-align: center;
+}
+  span {
+    display: block;
+  }
+  .rainbow {
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+  }
+  
+  .button {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+  }
+  
+  #purple {
+    background: rgb(145, 2, 121);
+  }
+  
+  #blue {
+    background: rgb(21, 116, 241);
+  }
+  #green {
+    background: hsl(116, 56%, 47%);
+  }
+  #yellow {
+    background: yellow;
+  }
+  #orange {
+    background: orange;
+  }
+  #red {
+    background: red;
+  }
+  #pink {
+    background: rgb(235, 105, 126);
+  }
+  #white {
+    background: white;
+  }
+  This project aims to change the background color of the website by clicking on the respective color it is made using html, CSS and JS
+  
